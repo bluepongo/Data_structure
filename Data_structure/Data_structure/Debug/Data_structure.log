@@ -1,0 +1,4 @@
+﻿  pch.cpp
+  01 动态数组.cpp
+e:\c++学习\代码练习\data_structure\data_structure\data_structure\01 动态数组.cpp(34): warning C4715: “Init_DynamicArray”: 不是所有的控件路径都返回值
+  Data_structure.vcxproj -> E:\C++学习\代码练习\Data_structure\Data_structure\Debug\动态数组.exe
